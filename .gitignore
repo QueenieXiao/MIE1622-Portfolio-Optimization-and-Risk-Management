@@ -1,0 +1,11 @@
+# Ignore compressed files
+*.zip
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
